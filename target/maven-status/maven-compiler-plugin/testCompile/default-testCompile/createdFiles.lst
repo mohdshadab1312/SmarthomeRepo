@@ -1,0 +1,8 @@
+com\tcs\Smarthome\Testcases\VApp_Version.class
+com\tcs\Smarthome\Testcases\VappLogin.class
+com\tcs\Smarthome\Testcases\VApp_ModifyContactsviaDeviceTile.class
+com\tcs\Smarthome\Testcases\TestBase.class
+com\tcs\Smarthome\Testcases\TestRun.class
+com\tcs\Smarthome\Testcases\VApp_Logout.class
+com\tcs\Smarthome\Testcases\VApp_FAQ.class
+com\tcs\Smarthome\Testcases\VApp_GotoSmartthings.class

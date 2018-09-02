@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.582 s <<< FAILURE! - in TestSuite
+CheckFAQ(com.tcs.Smarthome.Testcases.VApp_FAQ)  Time elapsed: 0.022 s  <<< FAILURE!
+java.lang.NullPointerException
+	at com.tcs.Smarthome.Testcases.VApp_FAQ.CheckFAQ(VApp_FAQ.java:13)
+
