@@ -10,6 +10,6 @@ public class TestRun extends TestBase {
 	public void checkExcel() throws IOException {
 		
 		System.out.println(getTestData(2,2));
-		
+		System.out.println("GIT check");
 	}	
 }
